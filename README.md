@@ -1,1 +1,0 @@
-# API-Quality-Assurance-with-Schemathesis-FastAPI
